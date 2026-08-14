@@ -1,0 +1,5 @@
+.env
+.DS_Store
+Naive_RAG/
+__pycache__/
+*.pyc

@@ -1,0 +1,8 @@
+langchain 
+langgraph 
+langsmith 
+langchain_community 
+langchain_groq 
+Sentence-Transformers 
+pypdf 
+langchain_Qdrant
